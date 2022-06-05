@@ -1,0 +1,51 @@
+
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6{ color: rgb(196, 236, 76);
+
+}
+img{
+    height: 130px;
+}
+h3{
+    vertical-align: top;
+    vertical-align:middle;
+    }
+
+.msme{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.startup{
+    position: absolute;
+    left:70%;
+    width: 20%;
+}
+.startup img{
+    height: 10rem;
+}
+
+.iso{
+    position: absolute;
+    left: 40%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.iso1{
+    position: absolute;
+    left: 20%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.iso2{
+    position: absolute;
+    left: 5%;
+    margin-top: 2%;
+    text-align: center;
+}
