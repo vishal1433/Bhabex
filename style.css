@@ -21,7 +21,16 @@ nav{
     padding-top: 40px;
     padding-left: 10%;
     padding-right: 10%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    transition: all 0.5s;
 
+}
+
+.nav.header-scrolled, #header.header-inner-pages {
+    background: rgba(0, 0, 0, 0.8);
 }
 
 .logo{
