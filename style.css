@@ -18,19 +18,17 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 40px;
+    padding-top: 30px;
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 20px;
     position: fixed;
     top: 0;
     right: 0;
     left: 0;
-    transition: all 0.5s;
+    background: rgba(0, 0, 0, 0.678);
+    /* transition: all 0.5s; */
 
-}
-
-.nav.header-scrolled, .nav.header-inner-pages {
-    background: rgba(0, 0, 0, 0.8);
 }
 
 .logo{
