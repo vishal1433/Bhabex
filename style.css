@@ -78,6 +78,7 @@ button:hover{
     cursor: pointer;
     color: rgb(223, 89, 89);
     background-color: white;
+    
 }
 
 .logo a{
@@ -88,6 +89,7 @@ button:hover{
 .logo:hover{
     transform: scale(1.2);
     transition: .5s;
+    
 }
 
 .footer-dark {
